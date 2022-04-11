@@ -1,0 +1,75 @@
+{
+
+  "name": "E-KIK",
+
+  "short_name": "E-KIK",
+
+  "start_url": "https://data-umat.ecatalog.my.id/",
+
+  "display": "standalone",
+
+  "background_color": "#fff",
+
+  "theme_color": "#243b99",
+
+  "description": "KIK Elektronik",
+
+  "icons": [{
+
+    "src": "https://data-umat.ecatalog.my.id/dist/img/logo-assisi-100.png",
+
+    "sizes": "48x48",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://data-umat.ecatalog.my.id/dist/img/logo-assisi-100.png",
+
+    "sizes": "72x72",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://data-umat.ecatalog.my.id/dist/img/logo-assisi-100.png",
+
+    "sizes": "96x96",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://data-umat.ecatalog.my.id/dist/img/logo-assisi-100.png",
+
+    "sizes": "144x144",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://data-umat.ecatalog.my.id/dist/img/logo-assisi-100.png",
+
+    "sizes": "168x168",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://data-umat.ecatalog.my.id/dist/img/logo-assisi-100.png",
+
+    "sizes": "192x192",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://data-umat.ecatalog.my.id/dist/img/logo-assisi-100.png",
+
+    "sizes": "512x512",
+
+    "type": "image/png"
+
+  }]
+
+}
