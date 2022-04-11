@@ -2,7 +2,7 @@ const CACHE_NAME = 'SW-001';
 const toCache = [
     '/',
     'assets/js/web.webmanifest',
-    'assets/js/register.js',
+    'https://cdn.statically.io/gh/feriesdigital/favicon/main/register.js',
     'assets/img/icon.png',
 ];
 
